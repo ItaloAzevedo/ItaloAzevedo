@@ -1,35 +1,85 @@
-### 
-<h1 align="center"> OLÁ, SEJA BEM VINDO(A) AO MEU PERFIL!! 👋🏽 </h1>
-<ul>
-  <li>🔭 ATUALMENTE ESTOU CURSANDO O 4° PERIODO DO CST EM ANALISE E DESENVOLVIMENTO DE SISTEMAS</li>
-  <li>🌱 ESTUDANTE DE PYTHON, PHP, LARAVEL E SQL</li>
-  <li>🎓 FORMADO COMO TÉCNICO EM INFORMÁTICA E GRADUANDO EM ADS (ANALISE E DESENVOLVIMENTO DE SISTEMAS)</li>
-</ul>
-<h1></h1>
+
 <div align="center">
-  <a href="https://github.com/ItaloAzevedo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItaloAzevedo&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true&border-radius=25px"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloAzevedo&layout=compact&langs_count=7&theme=apprentice&border-radius=25px"/>
+   <h2>
+    &lt;START&gt;
+   </h2>
+   <img style="height: 20em;" src="https://github.com/ItaloAzevedo/ItaloAzevedo/assets/42077103/5c523571-95ac-45c1-803b-5e87bafea9a9">
 </div>
 
-###
-<h1 align="center"> LINGUAGENS E FRAMEWORKS QUE JÁ DESENVOLVI OU ESTUDO </h1>
 <div align="center">
-  <a href="https://github.com/ItaloAzevedo"> 
-  <img style=height:55px; alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img style=height:55px; alt="LARAVEL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
-  <img style=height:55px; alt="PYTHON" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">  
-  <img style=height:55px; alt="DJANGO" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">
-  <img style=height:55px; alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img style=height:55px; alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">   
-  <img style="height:55px;" alt="JAVASCRIPT" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+   <h2>
+    &lt;ABOUT ME&gt;
+   </h2>
+</div>
+
+```php
+<?php
+  namespace ItaloAzevedo
+  class About extends Me
+  {
+    protected $name = 'Italo Azevedo';
+    protected $location = 'Brazil - Fortaleza(CE)';
+    protected $profession = 'Back-end Developer';
+    protected $interests = ['Web Developer', 'API RESTful', 'Python', 'PHP', 'Laravel'];
+    protected $languages = ['PHP', 'Python', 'SQL'];
+    protected $frameworks = ['Laravel'];
+    protected $email = 'italoazevedo1039@gmail.com';
+    protected $linkedin = 'https://www.linkedin.com/in/italo-azevedo-7a13971a1/';
+
+    public function getName() {
+        return $this->name;
+    }
+
+    public function getLocation() {
+        return $this->location;
+    }
+
+    public function getProfession() {
+        return $this->profession;
+    }
+
+    public function getInterests() {
+        return $this->interests;
+    }
+
+    public function getLanguages() {
+        return $this->languages;
+    }
+  
+    public function getFrameworks() {
+        return $this->frameworks;
+    }
+
+    public function getEmail() {
+        return $this->email;
+    }
+  
+    public function getLinkedin() {
+        return $this->linkedin;
+    }
+}
+```
+
+<div align="center">
+   <h2>
+    &lt;CONNECT AND TALK WITH ME&gt;
+   </h2>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/italo-azevedo-7a13971a1/">  
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
+  </a>
+  
+  <a href="mailto:italoazevedo1039@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Outlook">
   </a>
 </div>
 
-  ### 
-<h1 align="center"> VAMOS NOS CONECTAR NO LINKEDIN?! </h1>
 <div align="center">
-  <a href="https://www.linkedin.com/in/italo-azevedo-7a13971a1/"> 
-    <img style=height:40px;  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
-  </a>
+   <h2>
+    &lt;GITHUB STATS&gt;
+   </h2>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItaloAzevedo&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true&border-radius=25px"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloAzevedo&layout=compact&langs_count=7&theme=apprentice&border-radius=25px"/>
 </div>
