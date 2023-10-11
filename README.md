@@ -3,7 +3,8 @@
    <h2>
     &lt;START&gt;
    </h2>
-   <img style="height: 20em;" src="https://github.com/ItaloAzevedo/ItaloAzevedo/assets/42077103/5c523571-95ac-45c1-803b-5e87bafea9a9">
+
+   <img style="height: 20em;" src="https://github.com/ItaloAzevedo/ItaloAzevedo/assets/42077103/6c53ae7b-9bed-46b4-93df-4b9e4bb2d28d">
 </div>
 
 <div align="center">
