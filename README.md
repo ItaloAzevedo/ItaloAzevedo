@@ -80,7 +80,6 @@
    <h2>
     &lt;GITHUB STATS&gt;
    </h2>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItaloAzevedo&theme=monokai&show_icons=true&hide_border=false&count_private=true">
    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ItaloAzevedo&theme=monokai&hide_border=false">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloAzevedo&theme=monokai&show_icons=true&hide_border=false&layout=compact">
 </div>
