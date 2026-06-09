@@ -1,4 +1,3 @@
-
 <div align="center">
    <h2>
     &lt;START&gt;
@@ -69,11 +68,11 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/italo-azevedo-7a13971a1/">  
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
+     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="Linkedin">
   </a>
   
   <a href="mailto:italoazevedo1039@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Outlook">
+     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
 
@@ -81,6 +80,7 @@
    <h2>
     &lt;GITHUB STATS&gt;
    </h2>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItaloAzevedo&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true&border-radius=25px"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloAzevedo&layout=compact&langs_count=7&theme=apprentice&border-radius=25px"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItaloAzevedo&theme=monokai&show_icons=true&hide_border=false&count_private=true">
+   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ItaloAzevedo&theme=monokai&hide_border=false">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloAzevedo&theme=monokai&show_icons=true&hide_border=false&layout=compact">
 </div>
